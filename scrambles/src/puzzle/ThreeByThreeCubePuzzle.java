@@ -34,7 +34,7 @@ public class ThreeByThreeCubePuzzle extends CubePuzzle {
                 return new Search();
             };
         };
-    }
+    } 
 
     @Override
     protected String solveIn(PuzzleState ps, int n) {
